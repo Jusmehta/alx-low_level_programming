@@ -10,6 +10,7 @@
  */
 
 int main(void)
+	/*start of the code*/
 {
 	int n;
 

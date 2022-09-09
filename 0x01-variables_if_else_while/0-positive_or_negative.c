@@ -3,10 +3,9 @@
 #include <time.h>
 
 /**
- * entering the main function
- * Return: Always 0 means Success
- * displaying the positive and negative numbers
+ * main - Entry point
  *
+ *Return: Always 0 (Success)
  */
 
 int main(void)

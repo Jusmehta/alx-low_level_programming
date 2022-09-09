@@ -9,6 +9,7 @@
  */
 
 int main(void)
+	/*last gigit code*/
 {
 	int n;
 

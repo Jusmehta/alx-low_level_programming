@@ -5,7 +5,9 @@
 /*
  *main - Entry point
  *
- *return: Always 0 (success)
+ *Description: The program displays the last digit
+ *
+ *Return: Always 0 (success)
  */
 
 int main(void)

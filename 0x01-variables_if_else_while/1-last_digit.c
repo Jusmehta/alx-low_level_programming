@@ -3,9 +3,9 @@
 #include <stdio.h>
 
 /*
- *main - loop prints the last number
- *Description: checks using mainfunction
- *return: gives 0
+ *main - Entry point
+ *
+ *return: Always 0 (success)
  */
 
 int main(void)

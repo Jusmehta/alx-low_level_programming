@@ -4,6 +4,7 @@
 
 /**
  * entering the main function
+ * Return: Always 0 means Success
  * displaying the positive and negative numbers
  *
  */

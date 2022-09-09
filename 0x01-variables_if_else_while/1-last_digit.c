@@ -3,8 +3,8 @@
 #include <stdio.h>
 
 /*
- *main - Entry point
- *
+ *main - loop prints the last number
+ *Description: checks using mainfunction
  *return: gives 0
  */
 

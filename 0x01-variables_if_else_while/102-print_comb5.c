@@ -3,7 +3,7 @@
 /**
  * main - printing all combination of 2-two digit numbers
  *
- * return: (0) Success
+ * Return: (0) Success
  */
 
 int main(void)

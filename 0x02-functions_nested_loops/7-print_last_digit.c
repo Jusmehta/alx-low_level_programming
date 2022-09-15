@@ -1,4 +1,4 @@
-#include "main.h"
+#include "nolberton.h"
 /**
  * print_last_digit - prints the last digit of a number
  * @n: The number in question

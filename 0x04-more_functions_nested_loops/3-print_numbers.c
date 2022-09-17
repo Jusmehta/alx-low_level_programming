@@ -1,5 +1,5 @@
-#include "main.h"
 #include <stdio.h>
+#include "main.h"
 
 /**
  * print_numbers - function that prints numbers
@@ -12,9 +12,9 @@ void print_numbers(void)
 {
 	int n;
 
-	for (n = 8; n < 18; n++)
+	for (n = 48; n < 58; n++)
 	{
-		_putchar((num % 10) + '0');
+		putchar(n);
 	}
-	_putchar('\n');
+	putchar(10);
 }

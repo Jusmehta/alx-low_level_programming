@@ -12,9 +12,9 @@ void print_numbers(void)
 {
 	int n;
 
-	for (n = 8; n < 18; n++)
+	for (n = 8; n <= 18; n++)
 	{
-		putchar(n);
+		_putchar((num % 10) + '0');
 	}
 	_putchar('\n');
 }

@@ -1,17 +1,18 @@
 #include "main.h"
 
 /**
- * strcat - concatenates two strings and add a null
+ * _strcat - concatenates two strings and add a null
  * byte at the end of the string
  * @src: the source string
  * @dest: the pointer to the string to append to
  *
- * *Return: a pointer to the desination string
+ * Return: 0
  */
 
 char *_strcat(char *dest, char *src)
 {
-	int i = 0, l = 0;
+	int i = 0;
+	int l = 0;
 
 	while (dest[i] != '\0')
 	{

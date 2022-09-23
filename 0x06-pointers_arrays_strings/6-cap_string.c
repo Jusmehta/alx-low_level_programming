@@ -6,7 +6,7 @@
  * Return: string in caps
  */
 
-char *cap_string(char n)
+char *cap_string(char *n)
 {
 	int i = 0;
 

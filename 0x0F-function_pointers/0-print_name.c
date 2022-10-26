@@ -1,7 +1,6 @@
-#include <sdtdio.h>
 #include "function_pointers.h"
 /**
- * print_name - prints a name as is
+ * print_name - prints a name
  * @name: the name to be printed
  * @f: the function to send the name to
  * Return: nothing

@@ -5,7 +5,7 @@
  * @b: string of binary numbers
  * Return: returns the converted number or 0 if b is NULL
  */
-unsigned int binary_to_uint(cinst char *b)
+unsigned int binary_to_uint(const char *b)
 {
 	int len;
 	unsigned int base = 1;
@@ -18,7 +18,7 @@ unsigned int binary_to_uint(cinst char *b)
 
 	len = strlen(b) - 1;
 
-	for (; len>= 0; len--)
+	for (; len >= 0; len--)
 	{
 		if (b[len] != '1' && b[len] != '0')
 		{
